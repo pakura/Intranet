@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'MyriadGEOMtavruliBold';
+  src: url('../fonts/fonts/MyriadGEOMtavruliBold.eot');
+  src: url('../fonts/fonts/MyriadGEOMtavruliBold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fonts/MyriadGEOMtavruliBold.woff2') format('woff2'),
+  url('../fonts/fonts/MyriadGEOMtavruliBold.woff') format('woff'),
+  url('../fonts/fonts/MyriadGEOMtavruliBold.ttf') format('truetype'),
+  url('../fonts/fonts/MyriadGEOMtavruliBold.svg#MyriadGEOMtavruliBold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadGEOMtavruliMedium';
+  src: url('../fonts/fonts/MyriadGEOMtavruliMedium.eot');
+  src: url('../fonts/fonts/MyriadGEOMtavruliMedium.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fonts/MyriadGEOMtavruliMedium.woff2') format('woff2'),
+  url('../fonts/fonts/MyriadGEOMtavruliMedium.woff') format('woff'),
+  url('../fonts/fonts/MyriadGEOMtavruliMedium.ttf') format('truetype'),
+  url('../fonts/fonts/MyriadGEOMtavruliMedium.svg#MyriadGEOMtavruliMedium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadGEOBold';
+  src: url('../fonts/fonts/MyriadGEOBold.eot');
+  src: url('../fonts/fonts/MyriadGEOBold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fonts/MyriadGEOBold.woff2') format('woff2'),
+  url('../fonts/fonts/MyriadGEOBold.woff') format('woff'),
+  url('../fonts/fonts/MyriadGEOBold.ttf') format('truetype'),
+  url('../fonts/fonts/MyriadGEOBold.svg#MyriadGEOBold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadGEOMedium';
+  src: url('../fonts/fonts/MyriadGEOMedium.eot');
+  src: url('../fonts/fonts/MyriadGEOMedium.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/fonts/MyriadGEOMedium.woff2') format('woff2'),
+  url('../fonts/fonts/MyriadGEOMedium.woff') format('woff'),
+  url('../fonts/fonts/MyriadGEOMedium.ttf') format('truetype'),
+  url('../fonts/fonts/MyriadGEOMedium.svg#MyriadGEOMedium') format('svg');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+$primary-font: 'MyriadGEOMedium';
+$bold-font: 'MyriadGEOBold';
+$mtavruli-primary: 'MyriadGEOMtavruliMedium';
+$mtavruli-bold: 'MyriadGEOMtavruliBold';
